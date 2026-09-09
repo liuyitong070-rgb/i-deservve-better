@@ -1,0 +1,16 @@
+{
+  "name": "晚间进度 · 经济统计学二下",
+  "short_name": "晚间进度",
+  "description": "把每天的课程、就业能力和 PhD 准备拆成今晚能完成的三件事。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ea",
+  "theme_color": "#f6f3ea",
+  "lang": "zh-CN",
+  "icons": [{
+    "src": "/favicon.svg",
+    "sizes": "any",
+    "type": "image/svg+xml",
+    "purpose": "any maskable"
+  }]
+}
